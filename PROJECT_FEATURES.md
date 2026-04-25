@@ -19,3 +19,15 @@ add new routes and update personal profile.
 Assigned to: HABIBUR RAHAMAN SYIMON (23-50644-1)
 **Status: Implemented**
 
+## T-03: Implement Carrier Dashboard
+This feature allows the carrier to login securely and access
+their assigned shipments. Carrier can view all shipments
+assigned to their CarrierID, view route information including
+origin and destination, update shipment tracking status
+(Pending, In Transit, Shipped to Delivered), mark shipments
+as Delivered to complete the delivery process, and update
+personal profile information. System records a timestamp
+for all status updates.
+Assigned to: ADIB MAHBUB OMI (23-54633-3)
+**Status: Implemented**
+
