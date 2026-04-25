@@ -41,3 +41,13 @@ restricted to own shipments only, cannot view others orders.
 Assigned to: SYED MURSHID AMAN (23-54229-3)
 **Status: Implemented**
 
+## T-01: Implement Admin Dashboard
+This feature provides the admin with a centralized dashboard.
+Admin can create profile, login securely, view all shipments,
+payments, employees, carriers and routes. Admin can perform
+full CRUD operations — add, update and delete employees,
+carriers, shipments and routes. Admin can also access
+tracking information for any shipment.
+Assigned to: SADIB, MD FAUZIA RAHAMAN (22-47272-1)
+**Status: Implemented**
+
