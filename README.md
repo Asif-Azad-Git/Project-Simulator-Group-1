@@ -1,76 +1,70 @@
-# \# Delivery Management System
+**Delivery Management System**
 
-# 
 
-# \## Project Overview
 
-# A desktop-based Delivery Management System developed for 
+**Project Overview**
 
-# managing shipments, carriers, routes and payments. The system 
+A desktop-based Delivery Management System for managing shipments,
 
-# supports multiple user roles including Admin, Employee, 
+carriers, routes and payments. Supports multiple user roles including
 
-# Carrier, Seller and Customer.
+Admin, Employee, Carrier, Seller and Customer.
 
-# 
 
-# \## Group Information
 
-# \- \*\*Course:\*\* Software Engineering I
+**Group Information**
 
-# \- \*\*Section:\*\* I
+Course: Software Engineering I
 
-# \- \*\*Semester:\*\* Spring 2025-26
+Section: I
 
-# \- \*\*Supervised by:\*\* SHAKILA RAHMAN
+Semester: Spring 2025-26
 
-# 
+Supervised by: SHAKILA RAHMAN
 
-# \## Group Members
 
-# | Student ID | Name |
 
-# |---|---|
+**Group Members**
 
-# | 22-47272-1 | SADIB, MD FAUZIA RAHAMAN |
+22-47272-1  SADIB, MD FAUZIA RAHAMAN
 
-# | 23-50644-1 | HABIBUR RAHAMAN SYIMON |
+23-50644-1  HABIBUR RAHAMAN SYIMON
 
-# | 23-54633-3 | ADIB MAHBUB OMI |
+23-54633-3  ADIB MAHBUB OMI
 
-# | 23-54892-3 | ASIF AL AZAD |
+23-54892-3  ASIF AL AZAD
 
-# | 23-54229-3 | SYED MURSHID AMAN |
+23-54229-3  SYED MURSHID AMAN
 
-# 
 
-# \## Features
 
-# \- Admin dashboard with full CRUD operations
+**Features**
 
-# \- Employee shipment and payment management
+\- Admin dashboard with full CRUD operations
 
-# \- Carrier delivery tracking and status update
+\- Employee shipment and payment management
 
-# \- Seller shipment order creation with auto RouteID
+\- Carrier delivery tracking and status update
 
-# \- Customer shipment tracking portal
+\- Seller shipment order creation with auto RouteID
 
-# 
+\- Customer shipment tracking portal
 
-# \## Branch Structure
 
-# \- `main` — Production ready branch
 
-# \- `stage` — Pre-production testing branch
+**Branch Structure**
 
-# \- `dev` — Development integration branch
+main    Production ready branch
 
-# \- `feature/\*` — Individual feature branches
+stage   Pre-production testing branch
 
-# 
+dev     Development integration branch
 
-# \## Process Model
+feature Individual feature branches
 
-# Extreme Programming (XP)
+
+
+**Process Model**
+
+Extreme Programming (XP)
 
