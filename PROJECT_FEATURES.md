@@ -31,3 +31,13 @@ for all status updates.
 Assigned to: ADIB MAHBUB OMI (23-54633-3)
 **Status: Implemented**
 
+## T-05: Implement Customer Portal
+This feature allows customers to register and login using
+ClientID and password. Customer can view detailed shipment
+information linked to their ClientID, track delivery status
+and timeline of their shipments. System validates customer
+details (name, email) during registration. Access is
+restricted to own shipments only, cannot view others orders.
+Assigned to: SYED MURSHID AMAN (23-54229-3)
+**Status: Implemented**
+
